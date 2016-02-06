@@ -58,3 +58,5 @@
 
 }
 mainFunction();
+
+document.getElementById("refresh").addEventListener("click", mainFunction);

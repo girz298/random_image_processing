@@ -86,3 +86,19 @@ html{
 	border-radius: 7px;
 	border:2px solid black;
 }
+
+#refresh{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'RobotoSlabRegular', arial;
+	color: #A7FD6B;
+	border:5px solid #739E45;
+	background-color: rgba(49,162,133,0.6);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	border-radius: 18px;
+}
