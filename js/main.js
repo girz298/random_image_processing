@@ -2,8 +2,8 @@
   var refreshStatus = 0;
 
   function mainFunction(){
-    countOfBadPixls = 0;
-    refreshStatus = 0;
+  var  countOfBadPixls = 0;
+  var  refreshStatus = 0;
   var img = document.getElementById('img');
   var canvas = document.getElementById('myCanvas');
   var context = canvas.getContext("2d");
@@ -51,10 +51,10 @@
   refreshStatus =  countOfBadPixls/(pixels.length*100);
   console.log(refreshStatus);
   console.log(countOfBadPixls);
- /* if (refreshStatus==0.01) {
+/*  if (refreshStatus==0.01) {
     mainFunction();
-  }*/
-      context.putImageData(imageData, 0, 0);
+  }*/ //poka hz kak pofiksit' eto 
+  context.putImageData(imageData, 0, 0);
 
 }
 mainFunction();

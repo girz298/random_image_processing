@@ -70,13 +70,13 @@ html{
 .main-text{
 	text-align: center;
 	font-size: 24px;
-	font-family: 'Roboto Regular', arial;
+	font-family: 'RobotoSlabRegular', arial;
 	color: #A7FD6B;
 }
 
 .top-text{
 	text-align: center;
-	font-family: 'Roboto Regular';
+	font-family: 'RobotoSlabRegular';
 	background-color: #739E45;
 	color: #D4F2EA;
 	font-size: 36px;
