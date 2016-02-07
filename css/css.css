@@ -102,3 +102,9 @@ html{
 	margin-bottom: 2%;
 	border-radius: 18px;
 }
+
+#refresh:hover{
+	background-color: #4B8CF5;
+	opacity: 0.6;
+	cursor: pointer;
+}
