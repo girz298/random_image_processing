@@ -60,4 +60,4 @@
 }
 mainFunction();
 
-document.getElementById("refresh").addEventListener("click", mainFunction.process);
+document.getElementById("refresh").addEventListener("click", mainFunction);
