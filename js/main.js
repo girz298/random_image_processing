@@ -1,7 +1,8 @@
   var countOfBadPixls = 0;
   var refreshStatus = 0;
-
+  
   function mainFunction(){
+
   var  countOfBadPixls = 0;
   var  refreshStatus = 0;
   var img = document.getElementById('img');
