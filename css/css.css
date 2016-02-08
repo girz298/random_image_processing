@@ -109,12 +109,12 @@ html{
 	cursor: pointer;
 }
 
-@media only screen and (max-width : 600px) {
+@media only screen and (max-width : 768px) {
 	.content {
-	width: 100%;
+	width: 80%;
 	height: 100%;
 	margin: 0;
-	margin-left: 0;
+	margin-left: 10%;
 	}
 
 }
